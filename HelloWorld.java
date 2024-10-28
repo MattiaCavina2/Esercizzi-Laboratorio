@@ -6,6 +6,8 @@ public final class HelloWorld {
 
 	public static int procNumber() {
 		return Runtime.getRuntime().availableProcessors();
+
+		//////////
 	}
 
 }
